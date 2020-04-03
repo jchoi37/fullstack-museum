@@ -24,3 +24,4 @@
 - [ ] Create component to show all artists
 - [ ] Create component to show single painting
 - [ ] Create component to show single artist
+https://www.youtube.com/watch?v=pFCNC9spqfQ&feature=youtu.be
